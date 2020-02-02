@@ -1,0 +1,49 @@
+.log{
+   
+    height: 500px;
+    width: 600px;
+    outline: 3px dashed  #990099 ;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 30px;  
+    background-color:#336699;
+   
+}
+.log2{
+   
+    height: 400px;
+    width: 600px;
+    outline: 3px dashed  #990099 ;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 30px;  
+    background-color:#336699;
+   
+}
+.class1{
+   
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    padding-top: 10px;
+    
+    
+}
+.class2{
+    width: 400px;
+    text-align: center;
+}
+.input1{
+    width: 150px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    margin-left: 250px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #0099ff;
+    margin-top: 20px;
+}
+
